@@ -2,7 +2,7 @@
 
 ## Overview
 
-- **Course:** POL101 - Introduction to Political Science
+- **Course:** POL101: The Real World of Politics: An Introduction
 - **Assignment Title:** Introductory Paragraph (Assignment 1)
 - **Date:** February 4th, 2022
 - **Description:** This assignment involved writing an introductory paragraph with a thesis statement for a proposed essay. The central question addressed was "Why do social movements succeed and why do they fail?" The task required integrating specific examples and sources to illustrate the reasons behind the success or failure of social movements.
