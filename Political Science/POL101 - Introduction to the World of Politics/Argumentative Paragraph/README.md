@@ -2,7 +2,7 @@
 
 ## Overview
 
-- **Course:** POL 101
+- **Course:** POL 101: The Real World of Politics: An Introduction
 - **Assignment Title:** Argumentative Paragraph
 - **Semester:** Winter 2022
 - **Due Date:** February 18th, 2022, at 5pm EST
