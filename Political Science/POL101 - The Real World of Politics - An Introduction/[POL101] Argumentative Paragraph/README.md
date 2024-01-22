@@ -15,7 +15,7 @@ This assignment required writing a 250-300 word paragraph responding to the ques
 ## Instructions & Requirements
 
 - **Required Sources:** 
-  - Legacy chapter of the TRC Final Report (pp. 135-183)
+  - Legacy chapter of the Canadian Truth and Reconciliation Commission (TRC) Final Report (pp. 135-183)
   - TRC’s 94 Calls to Action
 - **Thesis Statement:** Clear position with reasons, early in the paragraph.
 - **Argument:** Persuasive and supported by evidence.
