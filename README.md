@@ -8,7 +8,7 @@ Welcome to my repository of undergraduate projects. This collection highlights m
 - **Preferred First Name:** Hilmie
 - **University:** University of Toronto, Canada
 - **Major:** Statistics
-- **Minors:** Mathematics, Political Science
+- **Minors:** Mathematics and Political Science
 - **Contact:** hilmiejalong.ahmadkhalillajan@mail.utoronto.ca (Academic) or muhd.hilmiejalong@gmail.com (Professional)
 
 ## Repository Structure
