@@ -33,8 +33,8 @@ This assignment required writing a 250-300 word paragraph responding to the ques
 
 ## Contact
 
-- **Student Name:** [Your Name]
-- **Email:** [Your Email]
+- **Student Name:** Muhammad Hilmie Jalong (Hilmie) Ahmad Khalil Lajan
+- **Email:** hilmiejalong.ahmadkhalillajan@mail.utoronto.ca
 
 ---
 *This README provides an outline of the objectives, structure, and requirements for the Argumentative Paragraph assignment in OL 101.*
